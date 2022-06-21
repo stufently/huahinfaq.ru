@@ -2,3 +2,33 @@
 - title: faq
   hashtag: faq
   path: faq
+- title: Аэропорт
+  hashtag: aeroport
+  path: aeroport
+- title: Аренда авто в Хуахине
+  hashtag: arendaauto
+  path: arendaauto
+- title: Аренда жилья в Хуахине
+  hashtag: arendajilia
+  path: arendajilia
+- title: Добаться в Бангкок с Хуахина
+  hashtag: bangkokhuanin
+  path: bangkokhuanin
+- title: Достопримечательности
+  hashtag: dostoprimechatelnosty
+  path: dostoprimechatelnosty
+- title: Храмы
+  hashtag: hramy
+  path: hramy
+- title: Пляжи
+  hashtag: plyazjy
+  path: plyazjy
+- title: Погода
+  hashtag: pogoda
+  path: pogoda
+- title: Рынки
+  hashtag: rinky
+  path: rinky
+- title: Транспорт
+  hashtag: transport
+  path: transport
